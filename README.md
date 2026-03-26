@@ -4,3 +4,7 @@ Sorting algorythm where i used 4 funcions:
 is faster for small data
 3) def merge(v, p1, k1, p2, k2, t): - classic merge for merge sort, just merging to sorted lists into one
 4) def insert_sort(v, l, r): - for small data it is faster that merge so it is here :D
+
+How to use?
+for a list use write sort(list)
+
